@@ -212,3 +212,52 @@ Run with:
 ```console
 python helloworld.py
 ```
+## Ruby
+
+```rb
+puts "Hello, World!"
+```
+
+Run with:
+
+```console
+ruby helloworld.rb
+```
+
+## PHP
+
+```php
+<?php
+echo "Hello, World!"
+?>
+```
+
+Run with:
+
+```console
+./helloworld
+```
+
+## Perl
+
+```pl
+print("Hello, World!\n")
+```
+
+Run with:
+
+```console
+perl helloworld.pl
+```
+
+## Lua
+
+```lua
+print("Hello, World!")
+```
+
+Run with:
+
+```console
+lua helloworld.lua
+```
