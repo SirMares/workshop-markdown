@@ -153,3 +153,62 @@ Run with:
 ```console
 java HelloWorld
 ```
+## x86_64 Assembly
+
+```as
+```
+
+Build with:
+
+```console
+TODO
+```
+
+Run with:
+
+```console
+./helloworld
+```
+
+TODO
+
+## ARM64 Assembly
+
+```as
+```
+
+Build with:
+
+```console
+TODO
+```
+
+Run with:
+
+```console
+./helloworld
+```
+
+## Bash
+
+```bash
+echo "Hello, World!"
+```
+
+Run with:
+
+```console
+bash helloworld.sh
+```
+
+## Python
+
+```py
+print("Hello, World!")
+```
+
+Run with:
+
+```console
+python helloworld.py
+```
