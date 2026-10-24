@@ -94,3 +94,62 @@ Run with:
 ```console
 ./helloworld
 ```
+## Go
+
+```go
+package main
+
+import "fmt"
+
+func main() {
+    fmt.Println("Hello, World!")
+}
+```
+
+Build and run with:
+
+```console
+go run helloworld.go
+```
+
+## Rust
+
+```rs
+fn main() {
+    println!("Hello, World");
+}
+```
+
+Build with:
+
+```console
+rustc hello.rs
+```
+
+Run with:
+
+```console
+./helloworld
+```
+
+## Java
+
+```java
+public class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("Hello, World!");
+    }
+}
+```
+
+Build with:
+
+```console
+javac HelloWorld.java
+```
+
+Run with:
+
+```console
+java HelloWorld
+```
